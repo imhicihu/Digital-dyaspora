@@ -27,6 +27,7 @@ Up to now, this repo will be public. At some level of analysis and data collecte
 * Write issues
     * No external issues allowed. 
 * Code review
+    * Public Issue tracker disabled. 
 * Other guidelines
 
 ### Who do I talk to? ###
