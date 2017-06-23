@@ -10,15 +10,15 @@ Up to now, this repo will be public. At some level of analysis and data collecte
 ### How do I get set up? ###
 
 * Summary of set up
-    * Gephi, data mining, Twitter API, Google Data Visualization API, Javascript libraries, QGis plugins (et alia), R (and various plugins), R Studio  (and various plugins).
+    * Gephi, data mining, Twitter API, Google Data Visualization API, Javascript libraries, QGis plugins (_et alia_), R (and various plugins), R Studio  (and various plugins).
 * Configuration
     * Mostly done on MacOSX ElCapitan environment.
 * Dependencies
-    * the less, the better. Most effort is done to avoid them.
+    * the less, the better. Most time & effort is _done_ to avoid them.
 * Database configuration
-    * Google Table, Neo4J (plus plugins)
+    * Google Table, Neo4J (_plus_ plugins)
 * How to run tests
-    * Inner tests will be done. Datasets it will not be released. Privacy matters!
+    * Inner tests will be done. Datasets it will not be released. _Privacy matters!_
 * Deployment instructions
     * Not for the public. 
 
