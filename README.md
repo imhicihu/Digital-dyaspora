@@ -29,6 +29,7 @@ Up to now, this repo will be public. At some level of analysis and data collecte
 * Code review
     * Public Issue tracker disabled. 
 * Other guidelines
+    * Not expected. 
 
 ### Who do I talk to? ###
 
