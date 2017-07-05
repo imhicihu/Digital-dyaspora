@@ -10,7 +10,7 @@ Up to now, this repo will be public. At some level of analysis and data collecte
 ### How do I get set up? ###
 
 * Summary of set up
-    * [Gephi](https://gephi.org/), data mining, [Twitter API](https://dev.twitter.com/overview/api), [Google Data Visualization API](https://developers.google.com/chart/interactive/docs/reference), Javascript libraries, [QGis](http://www.qgis.org/en/site/) plugins (_et alia_), R (and various plugins), R Studio (and various plugins). List of webapps & API will grow...
+    * [Gephi](https://gephi.org/), data mining, [Twitter API](https://dev.twitter.com/overview/api), [Google Data Visualization API](https://developers.google.com/chart/interactive/docs/reference), [Google Maps API](https://developers.google.com/maps/documentation/javascript/tutorial?hl=es-419), Javascript libraries, [QGis](http://www.qgis.org/en/site/) plugins (_et alia_), R (and various plugins), R Studio (and various plugins). List of webapps & API will grow...
 * Configuration
     * Mostly done on MacOSX ElCapitan environment.
 * Dependencies
