@@ -16,7 +16,7 @@ Up to now, this repo will be public. At some level of analysis and data collecte
 * Dependencies
     * the less, the better. Most time & effort is _done_ to avoid them.
 * Database configuration
-    * Google Table, Neo4J (_plus_ plugins)
+    * [OpenRefine](http://openrefine.org/), Neo4J (_plus_ plugins)
 * How to run tests
     * Inner tests will be done. Datasets it will not be released. _Privacy matters!_
 * Deployment instructions
