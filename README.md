@@ -5,16 +5,16 @@ Up to now, this repo will be public. At some level of analysis and data collecte
 ### What is this repository for? ###
 
 * Quick summary
-* Version 1.01
+* Version 1.02
 
 ### How do I get set up? ###
 
 * Summary of set up
     * [Gephi](https://gephi.org/), data mining, [Twitter API](https://dev.twitter.com/overview/api), [Heroku](https://www.heroku.com/), [Google Data Visualization API](https://developers.google.com/chart/interactive/docs/reference), [Openstreetmap API](http://wiki.openstreetmap.org/wiki/API_v0.7), [Google Maps API](https://developers.google.com/maps/documentation/javascript/tutorial?hl=es-419), Json (reader & editor), some (_essential_) Javascript libraries ([D3.js](https://d3js.org/)), [QGis](http://www.qgis.org/en/site/) [plugins](https://plugins.qgis.org/): [CartoDB](https://github.com/gkudos/qgis-cartodb) (_et alia_), [R](https://cran.r-project.org/) (and various plugins), R Studio (and various plugins). List of webapps & API will grow...
 * Configuration
-    * Mostly done on MacOSX ElCapitan environment.
+    * Mostly done on MacOSX ElCapitan environment. Minimally some process was done in a Windows system (virtualized, courtesy by VirtualBox). 
 * Dependencies
-    * the less, the better. Most time & effort is _done_ to avoid them.
+    * _The less, the better_. Most time & effort is _done_ to avoid them.
 * Database configuration
     * [OpenRefine](http://openrefine.org/), Neo4J (_plus_ plugins)
 * How to run tests
@@ -34,4 +34,3 @@ Up to now, this repo will be public. At some level of analysis and data collecte
 ### Who do I talk to? ###
 
 * Repo owner or admin
-* Other community or team contact
