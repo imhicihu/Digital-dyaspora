@@ -1,6 +1,6 @@
 # Workflow #
 
-Up to now, this repo will be public. At some level of analysis and data collected, it will become closed: some disclosure agreement must be accomplished).
+Up to now, this repo will be public. At some level of analysis and data collected, it will become closed: some disclosure agreement must be accomplished!.
 
 ### What is this repository for? ###
 
