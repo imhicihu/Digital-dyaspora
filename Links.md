@@ -15,6 +15,7 @@
 * https://cloud.google.com/vision/  (image content analysis) (API)
 * https://rapidminer.com/solutions/text-mining/  (data mining)
 * https://www.rstudio.com/resources/webinars/extracting-data-from-the-web-part-1/  (tutorial from R Studio)
+* [A Programmer's Guide to Data Mining](http://guidetodatamining.com/)
 
 ##Datasets (handling & management)
 * https://datahub.io/dataset?q=migration  (examples to query & format data)
