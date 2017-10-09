@@ -27,6 +27,8 @@
 * https://github.com/steffenfritz/html2warc
 * http://coptr.digipres.org/Category:Web_Crawl
 * https://github.com/iipc/awesome-web-archiving
+* http://netpreserve.org/projects/
+*
 
 
 
