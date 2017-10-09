@@ -24,6 +24,10 @@
 * https://github.com/DocNow/catalog
 * https://github.com/DocNow/hydrator
 * https://github.com/spotify/luigi  **a must have**
+* https://github.com/steffenfritz/html2warc
+* http://coptr.digipres.org/Category:Web_Crawl
+* https://github.com/iipc/awesome-web-archiving
+
 
 
 
