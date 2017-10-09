@@ -1,4 +1,4 @@
-##Bibliography
+## Bibliography
 * https://issuu.com/observatoriodiasporas/docs
 * http://www.itn-cohab.eu/wiki/digital-diaspora
 
@@ -17,8 +17,12 @@
 * https://www.rstudio.com/resources/webinars/extracting-data-from-the-web-part-1/  (tutorial from R Studio)
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com/)
 
-##Datasets (handling & management)
+## Datasets (handling & management)
 * https://datahub.io/dataset?q=migration  (examples to query & format data)
+
+## Links to visit
+* https://github.com/DocNow/catalog
+* 
 
 
 
