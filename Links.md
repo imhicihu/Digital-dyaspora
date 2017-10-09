@@ -22,7 +22,8 @@
 
 ## Links to visit
 * https://github.com/DocNow/catalog
-* 
+* https://github.com/DocNow/hydrator
+* https://github.com/spotify/luigi  **a must have**
 
 
 
