@@ -18,9 +18,7 @@ Up to now, this repo will be public. At some level of analysis and data collecte
 * Database configuration
     * [OpenRefine](http://openrefine.org/), Neo4J (_plus_ plugins)
 * How to run tests
-    * Inner tests will be done. Datasets it will not be released. _Privacy matters!_
-* Deployment instructions
-    * _Not for the public_. 
+    * Inner tests will be done. Datasets will not be released. _Privacy matters!_
 
 ### Contribution guidelines ###
 
