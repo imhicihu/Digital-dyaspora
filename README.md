@@ -32,4 +32,4 @@ Up to now, this repo will be public. At some level of analysis and data collecte
 ### Who do I talk to? ###
 
 * Repo owner or admin
-    * Contact imhicihu at gmail dot com
+     - Contact `imhicihu at gmail dot com`
