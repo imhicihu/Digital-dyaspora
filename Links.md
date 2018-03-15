@@ -30,7 +30,7 @@
 * http://netpreserve.org/projects/
 
 ## References 
-* https://www.wired.com/story/its-time-for-facebook-to-share-more-data-with-researchers/
+* https://www.wired.com/story/its-time-for-facebook-to-share-more-data-with-researchers/  ("(...) data can be anonymized to protect distinct users—those identities are not necessary for the study of trends and behaviors."
 
 
 
