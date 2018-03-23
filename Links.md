@@ -30,7 +30,8 @@
 * http://netpreserve.org/projects/
 
 ## References 
-* https://www.wired.com/story/its-time-for-facebook-to-share-more-data-with-researchers/  ("(...) data can be anonymized to protect distinct users—those identities are not necessary for the study of trends and behaviors."
+* https://www.wired.com/story/its-time-for-facebook-to-share-more-data-with-researchers/  ("(...) data can be anonymized to protect distinct usersï¿½those identities are not necessary for the study of trends and behaviors."
+* (Facebook's new data restrictions will handcuff even honest researchers](https://www.wired.com/story/fb-data-restrictions-hobble-researchers/)
 * [LinkedIn insights](https://specialedition.linkedin.com/details)
 
 
