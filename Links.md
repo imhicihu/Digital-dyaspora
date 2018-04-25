@@ -34,6 +34,7 @@
 * [Facebook's new data restrictions will handcuff even honest researchers](https://www.wired.com/story/fb-data-restrictions-hobble-researchers/)
 * [LinkedIn insights](https://specialedition.linkedin.com/details)
 * [Facebook & Google profiles](https://www.theguardian.com/commentisfree/2018/mar/28/all-the-data-facebook-google-has-on-you-privacy)
+* [How Companies Learn Your Secrets](https://www.nytimes.com/2012/02/19/magazine/shopping-habits.html?pagewanted=1&_r=1&hp)
 
 
 
