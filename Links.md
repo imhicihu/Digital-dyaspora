@@ -29,6 +29,7 @@
 * https://github.com/iipc/awesome-web-archiving
 * http://netpreserve.org/projects/
 * https://developer.ibm.com/code/patterns/discover-hidden-facebook-usage-insights/
+* https://medium.com/ibm-watson-data-lab/real-time-sentiment-analysis-of-twitter-hashtags-with-spark-7ee6ca5c1585
 
 ## References 
 * [It's time for Facebook to share more with researchers](https://www.wired.com/story/its-time-for-facebook-to-share-more-data-with-researchers/  ("(...) data can be anonymized to protect distinct users�those identities are not necessary for the study of trends and behaviors."
