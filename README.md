@@ -5,6 +5,7 @@ Up to now, this repo will be public. At some level of analysis and data collecte
 ### What is this repository for? ###
 
 * Quick summary
+    * Strategies, policies and good practices in data mining
 * Version 1.02
 
 ### How do I get set up? ###
@@ -25,15 +26,14 @@ Up to now, this repo will be public. At some level of analysis and data collecte
 * Write issues
     * No external issues allowed. 
 * Code review
-    * Public Issue tracker disabled. 
+    * ~~Public Issue tracker disabled.~~
 * Other guidelines
-    * Not expected. 
+    * Not expected. All this repo is a massive checklist of good practices in data mining
 
 ### Who do I talk to? ###
 
 * Repo owner or admin
-     - Contact `imhicihu` at `gmail` dot `com`
-     
+     - Contact `imhicihu` at `gmail` dot `com`     
 
 ### Legal ###
 
