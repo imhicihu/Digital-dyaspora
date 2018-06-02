@@ -22,6 +22,7 @@
 
 ## Links to visit
 * https://github.com/DocNow/catalog
+* [Tidyverse](https://www.tidyverse.org/)
 * https://github.com/DocNow/hydrator
 * https://github.com/spotify/luigi  **a must have**
 * https://github.com/steffenfritz/html2warc
