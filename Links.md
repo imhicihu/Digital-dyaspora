@@ -26,7 +26,8 @@
 * https://github.com/spotify/luigi  **a must have**
 * https://github.com/steffenfritz/html2warc
 * http://coptr.digipres.org/Category:Web_Crawl
-* https://github.com/rohanchikorde/Text-Mining-for-SMS-Spam-Detection-using-R-and-Python  
+* https://github.com/rohanchikorde/Text-Mining-for-SMS-Spam-Detection-using-R-and-Python
+* https://github.com/IBM/cognitive-social-crm
 * https://github.com/iipc/awesome-web-archiving
 * http://netpreserve.org/projects/
 * https://developer.ibm.com/code/patterns/discover-hidden-facebook-usage-insights/
