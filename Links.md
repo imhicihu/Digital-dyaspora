@@ -14,6 +14,7 @@
 * https://www.microsoft.com/cognitive-services/en-us/computer-vision-api  (API)
 * https://cloud.google.com/vision/  (image content analysis) (API)
 * https://rapidminer.com/solutions/text-mining/  (data mining)
+* [ghcrawler](https://github.com/Microsoft/ghcrawler): Crawl GitHub APIs and store the discovered orgs, repos, commits, ... 
 * https://www.rstudio.com/resources/webinars/extracting-data-from-the-web-part-1/  (tutorial from R Studio)
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com/)
 
@@ -30,6 +31,7 @@
 * https://github.com/rohanchikorde/Text-Mining-for-SMS-Spam-Detection-using-R-and-Python
 * https://github.com/IBM/cognitive-social-crm
 * https://github.com/iipc/awesome-web-archiving
+* https://www.scientificamerican.com/article/web-searches-reveal-in-aggregate-what-were-really-thinking/
 * http://netpreserve.org/projects/
 * https://developer.ibm.com/code/patterns/discover-hidden-facebook-usage-insights/
 * https://medium.com/ibm-watson-data-lab/real-time-sentiment-analysis-of-twitter-hashtags-with-spark-7ee6ca5c1585
