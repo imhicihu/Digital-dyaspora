@@ -5,7 +5,7 @@ Up to now, this repo will be public. At some level of analysis and data collecte
 ### What is this repository for? ###
 
 * Quick summary
-    * Strategies, policies and good practices in data mining
+    * Strategies, policies, insights and _good practices_ on the mix of digital maps, cartography and data mining
 * Version 1.02
 
 ### How do I get set up? ###
