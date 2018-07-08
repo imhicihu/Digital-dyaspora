@@ -2,6 +2,7 @@
 * https://issuu.com/observatoriodiasporas/docs
 * http://www.itn-cohab.eu/wiki/digital-diaspora
 * [Private traits and attributes are predictable from digital records of human behavior](http://www.pnas.org/content/110/15/5802)
+* 
 
 ## Technology
 * https://github.com/heroku/kafka-tweet-producer  (twitter bot?)
@@ -43,5 +44,7 @@
 * [Facebook & Google profiles](https://www.theguardian.com/commentisfree/2018/mar/28/all-the-data-facebook-google-has-on-you-privacy)
 * [How Companies Learn Your Secrets](https://www.nytimes.com/2012/02/19/magazine/shopping-habits.html?pagewanted=1&_r=1&hp)
 * https://www.wired.com/story/twitter-diurnal-trends/
+* https://www.newscientist.com/article/2168713-huge-new-facebook-data-leak-exposed-intimate-details-of-3m-users/
+* [Psychological targeting as an effective approach to digital mass persuasion](http://www.pnas.org/content/early/2017/11/07/1710966114)
 
 
