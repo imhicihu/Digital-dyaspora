@@ -10,7 +10,8 @@
 * https://github.com/mett29/Twitter_analyzer/blob/master/tweets.py (data mining plus geolocation on twitter)
 * https://github.com/deebee07/GeoLocation-Twitter-Sentiment  (sentiment analysis plus geolocation on twitter)
 * https://github.com/alpengeist/Twitter-Crawler (data mining on twitter)
-* http://webscraper.io/  (data mining
+* http://webscraper.io/  (data mining)
+* https://www.wired.com/story/elucd-sentiment-meter-helps-cops-understand-precincts/ (sentiment analysis)
 * https://www.wired.com/story/twitter-diurnal-trends/
 * https://www.microsoft.com/cognitive-services/en-us/computer-vision-api  (API)
 * https://cloud.google.com/vision/  (image content analysis) (API)
