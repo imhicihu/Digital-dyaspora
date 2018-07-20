@@ -48,5 +48,5 @@
 * https://www.wired.com/story/twitter-diurnal-trends/
 * https://www.newscientist.com/article/2168713-huge-new-facebook-data-leak-exposed-intimate-details-of-3m-users/
 * [Psychological targeting as an effective approach to digital mass persuasion](http://www.pnas.org/content/early/2017/11/07/1710966114)
-
+* [Venmo: how the payment app exposes our private lives](https://www.theguardian.com/world/2018/jul/17/venmo-payments-app-default-privacy-settings-public-information)
 
