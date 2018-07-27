@@ -6,7 +6,7 @@
     - 
     - 
 * Software
-    - 
+    - [NetworkX](https://networkx.github.io/);: complex network visualization 
     - 
     - 
     - 
