@@ -11,6 +11,7 @@
 * https://github.com/deebee07/GeoLocation-Twitter-Sentiment  (sentiment analysis plus geolocation on twitter)
 * https://github.com/alpengeist/Twitter-Crawler (data mining on twitter)
 * http://webscraper.io/  (data mining)
+* [Silicon Valley Writes a Playbook to Help Avert Ethical Disasters](https://www.wired.com/story/ethical-os/](https://www.wired.com/story/ethical-os/): ethical issues implied
 * https://www.wired.com/story/elucd-sentiment-meter-helps-cops-understand-precincts/ (sentiment analysis)
 * https://www.wired.com/story/twitter-diurnal-trends/
 * https://www.microsoft.com/cognitive-services/en-us/computer-vision-api  (API)
@@ -25,8 +26,8 @@
 * https://datahub.io/dataset?q=migration  (examples to query & format data)
 
 ## Culture
-* The WEIRD Science of Culture, Values, and Behavior https://www.psychologicalscience.org/observer/the-weird-science-of-culture-values-and-behavior?kbid=88472
-* Netflix: What the World Is Watching in 2018   https://www.highspeedinternet.com/resources/netflix-what-the-world-is-watching-in-2018/#methodology
+* [The WEIRD Science of Culture, Values, and Behavior](https://www.psychologicalscience.org/observer/the-weird-science-of-culture-values-and-behavior?kbid=88472)
+* [Netflix: What the World Is Watching in 2018](https://www.highspeedinternet.com/resources/netflix-what-the-world-is-watching-in-2018/#methodology)
 ## Links to visit
 * https://github.com/DocNow/catalog
 * [Tidyverse](https://www.tidyverse.org/)
