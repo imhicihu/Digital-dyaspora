@@ -2,7 +2,8 @@
 * https://issuu.com/observatoriodiasporas/docs
 * http://www.itn-cohab.eu/wiki/digital-diaspora
 * [Private traits and attributes are predictable from digital records of human behavior](http://www.pnas.org/content/110/15/5802)
-* 
+* [Facebook Research](https://research.fb.com/)
+* [Facebook Research Data Science publications](https://research.fb.com/category/data-science/)
 
 ## Technology
 * https://github.com/heroku/kafka-tweet-producer  (twitter bot?)
