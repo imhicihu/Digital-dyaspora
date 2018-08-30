@@ -7,6 +7,7 @@
 
 ## Technology
 * https://github.com/heroku/kafka-tweet-producer  (twitter bot?)
+* [Natural Language Preprocessing (NLPre)(https://github.com/NIHOPA/NLPre/)
 * https://github.com/mdredze/carmen (geolocation)
 * https://github.com/mett29/Twitter_analyzer/blob/master/tweets.py (data mining plus geolocation on twitter)
 * https://github.com/deebee07/GeoLocation-Twitter-Sentiment  (sentiment analysis plus geolocation on twitter)
