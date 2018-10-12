@@ -25,6 +25,7 @@
 * https://www.rstudio.com/resources/webinars/extracting-data-from-the-web-part-1/  (tutorial from R Studio)
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com/)
 * https://www.technologyreview.com/s/611655/how-to-tell-if-youre-talking-to-a-bot/
+* [Microsoft Hotel360 - twitter sentiment](https://github.com/Microsoft/SmartHotel360-Sentiment-Analysis-App)
 
 ## Datasets (handling & management)
 * https://datahub.io/dataset?q=migration  (examples to query & format data)
