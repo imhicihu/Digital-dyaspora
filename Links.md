@@ -40,6 +40,7 @@
 * [Tidyverse](https://www.tidyverse.org/)
 * https://github.com/DocNow/hydrator
 * https://github.com/spotify/luigi  **a must have**
+* [streamtools: a graphical toolkit for working with streams of data](https://github.com/nytlabs/streamtools)
 * https://github.com/steffenfritz/html2warc
 * http://coptr.digipres.org/Category:Web_Crawl
 * https://github.com/rohanchikorde/Text-Mining-for-SMS-Spam-Detection-using-R-and-Python
