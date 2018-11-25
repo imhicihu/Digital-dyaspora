@@ -33,7 +33,9 @@
 ## Culture
 * [The WEIRD Science of Culture, Values, and Behavior](https://www.psychologicalscience.org/observer/the-weird-science-of-culture-values-and-behavior?kbid=88472)
 * [Netflix: What the World Is Watching in 2018](https://www.highspeedinternet.com/resources/netflix-what-the-world-is-watching-in-2018/#methodology)
+
 ## Links to visit
+* [Word2Vec](https://code.google.com/archive/p/word2vec/): comes from the [New York Times Labs](http://nytlabs.com/)
 * https://github.com/DocNow/catalog
 * [Tidyverse](https://www.tidyverse.org/)
 * https://github.com/DocNow/hydrator
