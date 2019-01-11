@@ -10,7 +10,7 @@
 * [RedRock](https://github.com/CODAIT/redrock)
 * [The privacy risks of compiling mobility data](http://news.mit.edu/2018/privacy-risks-mobility-data-1207)
 * [Spark-based machine learning for capturing word meanings](https://github.com/castanan/w2v)
-* [Natural Language Preprocessing (NLPre)(https://github.com/NIHOPA/NLPre/)
+* [Natural Language Preprocessing (NLPre)](https://github.com/NIHOPA/NLPre/)
 * https://github.com/mdredze/carmen (geolocation)
 * https://github.com/mett29/Twitter_analyzer/blob/master/tweets.py (data mining plus geolocation on twitter)
 * https://github.com/deebee07/GeoLocation-Twitter-Sentiment  (sentiment analysis plus geolocation on twitter)
@@ -22,6 +22,7 @@
 * https://www.microsoft.com/cognitive-services/en-us/computer-vision-api  (API)
 * https://cloud.google.com/vision/  (image content analysis) (API)
 * https://rapidminer.com/solutions/text-mining/  (data mining)
+* https://www.wired.com/story/twitter-location-data-gps-privacy/
 * [ghcrawler](https://github.com/Microsoft/ghcrawler): Crawl GitHub APIs and store the discovered orgs, repos, commits, ... 
 * https://www.rstudio.com/resources/webinars/extracting-data-from-the-web-part-1/  (tutorial from R Studio)
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com/)
