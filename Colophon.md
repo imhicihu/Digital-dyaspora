@@ -6,6 +6,7 @@
 * Software
     - [NetworkX](https://networkx.github.io/): complex network visualization
     - [Gephi](https://gephi.org/): network analysis
+    - [gensim](https://pypi.org/project/gensim/): a free Python library designed to automatically extract semantic topics from documents. The gensim implementation is based on the popular TextRank algorithm.
     - [html-proofer](https://github.com/gjtorikian/html-proofer): outer html links checker 
     - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
 
