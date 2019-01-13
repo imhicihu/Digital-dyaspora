@@ -28,6 +28,7 @@
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com/)
 * [Talking to a bot](https://www.technologyreview.com/s/611655/how-to-tell-if-youre-talking-to-a-bot/
 * [Microsoft Hotel360 - twitter sentiment](https://github.com/Microsoft/SmartHotel360-Sentiment-Analysis-App)
+* [Text summarization of a Travel blog and tweeting it to increase the reach and expand business](https://github.com/IBM/tweet-news-summary)
 
 ## Datasets (handling & management)
 * https://datahub.io/dataset?q=migration  (examples to query & format data)
