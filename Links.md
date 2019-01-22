@@ -26,9 +26,10 @@
 * [ghcrawler](https://github.com/Microsoft/ghcrawler): Crawl GitHub APIs and store the discovered orgs, repos, commits, ... 
 * https://www.rstudio.com/resources/webinars/extracting-data-from-the-web-part-1/  (tutorial from R Studio)
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com/)
-* [Talking to a bot](https://www.technologyreview.com/s/611655/how-to-tell-if-youre-talking-to-a-bot/
+* [Talking to a bot](https://www.technologyreview.com/s/611655/how-to-tell-if-youre-talking-to-a-bot/)
 * [Microsoft Hotel360 - twitter sentiment](https://github.com/Microsoft/SmartHotel360-Sentiment-Analysis-App)
 * [Text summarization of a Travel blog and tweeting it to increase the reach and expand business](https://github.com/IBM/tweet-news-summary)
+* [The Exaggerated Promise of So-Called Unbiased Data Mining](https://www.wired.com/story/the-exaggerated-promise-of-data-mining/)
 
 ## Datasets (handling & management)
 * https://datahub.io/dataset?q=migration  (examples to query & format data)
