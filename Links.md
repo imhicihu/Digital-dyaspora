@@ -23,6 +23,7 @@
 * https://cloud.google.com/vision/  (image content analysis) (API)
 * https://rapidminer.com/solutions/text-mining/  (data mining)
 * https://www.wired.com/story/twitter-location-data-gps-privacy/
+* [The Wired Guide to Your Personal Data (and Who Is Using It)](https://www.wired.com/story/wired-guide-personal-data-collection/)
 * [ghcrawler](https://github.com/Microsoft/ghcrawler): Crawl GitHub APIs and store the discovered orgs, repos, commits, ... 
 * https://www.rstudio.com/resources/webinars/extracting-data-from-the-web-part-1/  (tutorial from R Studio)
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com/)
