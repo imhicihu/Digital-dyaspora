@@ -8,6 +8,7 @@
 ## Technology
 * https://github.com/heroku/kafka-tweet-producer  (twitter bot?)
 * [RedRock](https://github.com/CODAIT/redrock)
+* [IBM Tone analyzer](https://github.com/watson-developer-cloud/tone-analyzer-nodejs)
 * [The privacy risks of compiling mobility data](http://news.mit.edu/2018/privacy-risks-mobility-data-1207)
 * [Spark-based machine learning for capturing word meanings](https://github.com/castanan/w2v)
 * [Natural Language Preprocessing (NLPre)](https://github.com/NIHOPA/NLPre/)
