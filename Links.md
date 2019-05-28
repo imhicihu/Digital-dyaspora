@@ -12,13 +12,14 @@
 * [The privacy risks of compiling mobility data](http://news.mit.edu/2018/privacy-risks-mobility-data-1207)
 * [Spark-based machine learning for capturing word meanings](https://github.com/castanan/w2v)
 * [Natural Language Preprocessing (NLPre)](https://github.com/NIHOPA/NLPre/)
+* All the ways Google tracks you-and how to stop it](https://www.wired.com/story/google-tracks-you-privacy/)
 * https://github.com/mdredze/carmen (geolocation)
 * https://github.com/mett29/Twitter_analyzer/blob/master/tweets.py (data mining plus geolocation on twitter)
 * https://github.com/deebee07/GeoLocation-Twitter-Sentiment  (sentiment analysis plus geolocation on twitter)
-* https://github.com/alpengeist/Twitter-Crawler (data mining on twitter)
+* https://github.com/alpengeist/Twitter-Crawler (data mining on Twitter)
 * http://webscraper.io/  (data mining)
 * https://www.wired.com/story/amazon-and-the-spread-of-health-misinformation/
-* [Silicon Valley Writes a Playbook to Help Avert Ethical Disasters](https://www.wired.com/story/ethical-os/]: ethical issues implied
+* [Silicon Valley Writes a Playbook to Help Avert Ethical Disasters](https://www.wired.com/story/ethical-os/): ethical issues implied
 * https://www.wired.com/story/elucd-sentiment-meter-helps-cops-understand-precincts/ (sentiment analysis)
 * https://www.wired.com/story/twitter-diurnal-trends/
 * https://www.microsoft.com/cognitive-services/en-us/computer-vision-api  (API)
@@ -60,7 +61,7 @@
 * https://medium.com/ibm-watson-data-lab/real-time-sentiment-analysis-of-twitter-hashtags-with-spark-7ee6ca5c1585
 
 ## Miscellaneous 
-* [It's time for Facebook to share more with researchers](https://www.wired.com/story/its-time-for-facebook-to-share-more-data-with-researchers/  ("(...) data can be anonymized to protect distinct users�those identities are not necessary for the study of trends and behaviors."
+* [It's time for Facebook to share more with researchers](https://www.wired.com/story/its-time-for-facebook-to-share-more-data-with-researchers/)  ("(...) data can be anonymized to protect distinct users (...) those identities are not necessary for the study of trends and behaviors."
 * [Facebook's new data restrictions will handcuff even honest researchers](https://www.wired.com/story/fb-data-restrictions-hobble-researchers/)
 * [LinkedIn insights](https://specialedition.linkedin.com/details)
 * [Facebook & Google profiles](https://www.theguardian.com/commentisfree/2018/mar/28/all-the-data-facebook-google-has-on-you-privacy)
