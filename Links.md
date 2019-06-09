@@ -48,6 +48,7 @@
 * https://github.com/DocNow/catalog
 * [Tidyverse](https://www.tidyverse.org/)
 * https://github.com/DocNow/hydrator
+* [Louvain method: Finding communities in large networks](https://sites.google.com/site/findcommunities/)
 * https://github.com/spotify/luigi  **a must have**
 * [streamtools: a graphical toolkit for working with streams of data](https://github.com/nytlabs/streamtools)
 * https://github.com/steffenfritz/html2warc
