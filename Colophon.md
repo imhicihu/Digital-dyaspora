@@ -11,6 +11,7 @@
     - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
     - [Weka](https://www.cs.waikato.ac.nz/ml/weka/) 3: Data Mining
     - [MOA](https://moa.cms.waikato.ac.nz/): data stream mining
+    - [links verifier](https://www.deadlinkchecker.com/)
 
 ## Legal ##
 
