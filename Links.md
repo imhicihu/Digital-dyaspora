@@ -19,6 +19,7 @@
 * https://github.com/deebee07/GeoLocation-Twitter-Sentiment  (sentiment analysis plus geolocation on twitter)
 * https://github.com/alpengeist/Twitter-Crawler (data mining on Twitter)
 * http://webscraper.io/  (data mining)
+* https://github.com/sborms/sentometrics: text sentiment _via_ R
 * https://www.wired.com/story/amazon-and-the-spread-of-health-misinformation/
 * [Silicon Valley Writes a Playbook to Help Avert Ethical Disasters](https://www.wired.com/story/ethical-os/): ethical issues implied
 * https://www.wired.com/story/elucd-sentiment-meter-helps-cops-understand-precincts/ (sentiment analysis)
