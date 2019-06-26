@@ -7,6 +7,7 @@ Up to now, this repo will be public. At some level of analysis and data collecte
 * Quick summary
     * Strategies, policies, insights and _good practices_ on the mix of digital maps, cartography and data mining
 * Version 1.02
+* ![gephy.gif](https://i.ibb.co/DQFwCrY/Recording-13.gif)
 
 ### How do I get set up? ###
 
