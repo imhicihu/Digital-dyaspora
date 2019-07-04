@@ -13,6 +13,7 @@
     - [MOA](https://moa.cms.waikato.ac.nz/): data stream mining
     - [links verifier](https://www.deadlinkchecker.com/)
     - [HTML2PDF](https://wkhtmltopdf.org)
+    - [SiteViz](https://peacockmedia.software/mac/siteviz/siteviz.dmg): Website visualiser for Mac
 
 ## Legal ##
 
