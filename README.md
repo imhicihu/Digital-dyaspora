@@ -1,6 +1,10 @@
+![status-archived](https://bitbucket.org/repo/ekyaeEE/images/3278295154-status_archived.png)
+![internaluse-green](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
+![issues-open](https://bitbucket.org/repo/ekyaeEE/images/2944199103-issues_open.png)
+
 # Workflow #
 
-Up to now, this repo will be public. At some level of analysis and data collected, it will become closed: some disclosure agreement must be accomplished!.
+Up to now, this repository will be public. At some level of analysis and data collected, it will become closed: some disclosure agreement must be accomplished!.
 
 ### What is this repository for? ###
 
@@ -20,16 +24,16 @@ Up to now, this repo will be public. At some level of analysis and data collecte
 * Database configuration
     * [OpenRefine](http://openrefine.org/), Neo4J (_plus_ plugins); [Firebase](https://firebase.google.com/); [Neo4J](https://neo4j.com/)
 * How to run tests
-    * Inner tests will be done. Datasets will not be released. _Privacy matters!_
+    * Inner tests will be done. Datasets will not be released. _Law and privacy matters!_
 
 ### Contribution guidelines ###
 
 * Write issues
-    * No external issues allowed. 
+    * No external issues allowed, because ome disclosure agreements must be accomplished!
 * Code review
     * ~~Public Issue tracker disabled.~~
 * Other guidelines
-    * Not expected. All this repo is a massive checklist of good practices in data mining
+    * Not expected.
 
 ### Who do I talk to? ###
 
