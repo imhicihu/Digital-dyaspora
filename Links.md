@@ -13,20 +13,20 @@
 * [The privacy risks of compiling mobility data](http://news.mit.edu/2018/privacy-risks-mobility-data-1207)
 * [Spark-based machine learning for capturing word meanings](https://github.com/castanan/w2v)
 * [Natural Language Preprocessing (NLPre)](https://github.com/NIHOPA/NLPre/)
-* All the ways Google tracks you-and how to stop it](https://www.wired.com/story/google-tracks-you-privacy/)
+* [All the ways Google tracks you-and how to stop it](https://www.wired.com/story/google-tracks-you-privacy/)
 * https://github.com/mdredze/carmen (geolocation)
 * https://github.com/mett29/Twitter_analyzer/blob/master/tweets.py (data mining plus geolocation on twitter)
 * https://github.com/deebee07/GeoLocation-Twitter-Sentiment  (sentiment analysis plus geolocation on twitter)
 * https://github.com/alpengeist/Twitter-Crawler (data mining on Twitter)
-* http://webscraper.io/  (data mining)
-* https://github.com/sborms/sentometrics: text sentiment _via_ R
-* https://www.wired.com/story/amazon-and-the-spread-of-health-misinformation/
+* [Webscraper](http://webscraper.io/)  (data mining)
+* [Sentometrics](https://github.com/sborms/sentometrics): text sentiment _via_ R
+* [How Amazon's Algorithms Curated a Dystopian Bookstore](https://www.wired.com/story/amazon-and-the-spread-of-health-misinformation/)
 * [Silicon Valley Writes a Playbook to Help Avert Ethical Disasters](https://www.wired.com/story/ethical-os/): ethical issues implied
 * https://www.wired.com/story/elucd-sentiment-meter-helps-cops-understand-precincts/ (sentiment analysis)
 * https://www.wired.com/story/twitter-diurnal-trends/
 * https://www.microsoft.com/cognitive-services/en-us/computer-vision-api  (API)
 * https://cloud.google.com/vision/  (image content analysis) (API)
-* https://rapidminer.com/solutions/text-mining/  (data mining)
+* [RapidMiner](https://rapidminer.com/solutions/text-mining/)  (data mining)
 * https://www.wired.com/story/twitter-location-data-gps-privacy/
 * [The Wired Guide to Your Personal Data (and Who Is Using It)](https://www.wired.com/story/wired-guide-personal-data-collection/)
 * [ghcrawler](https://github.com/Microsoft/ghcrawler): Crawl GitHub APIs and store the discovered orgs, repos, commits, ... 
@@ -57,6 +57,7 @@
 * http://coptr.digipres.org/Category:Web_Crawl
 * https://github.com/rohanchikorde/Text-Mining-for-SMS-Spam-Detection-using-R-and-Python
 * https://github.com/IBM/cognitive-social-crm
+* [Virtual Observatory for the Study of Online Networks Lab](http://vosonlab.net/)
 * https://github.com/iipc/awesome-web-archiving
 * https://www.scientificamerican.com/article/web-searches-reveal-in-aggregate-what-were-really-thinking/
 * http://netpreserve.org/projects/
