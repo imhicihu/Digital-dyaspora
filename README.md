@@ -40,6 +40,10 @@ Up to now, this repository will be public. At some level of analysis and data co
 * Repo owner or admin
      - Contact `imhicihu` at `gmail` dot `com`     
 
+### Code of Conduct
+
+* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/digital-dy-spora/src/master/code_of_conduct.md)
+
 ### Legal ###
 
 * All trademarks are the property of their respective owners.
