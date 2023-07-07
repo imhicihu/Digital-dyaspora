@@ -1,6 +1,6 @@
-![status-archived](https://bitbucket.org/repo/ekyaeEE/images/3278295154-status_archived.png)
-![internaluse-green](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
-![issues-open](https://bitbucket.org/repo/ekyaeEE/images/2944199103-issues_open.png)
+![status-archived](images/3278295154-status_archived.png)
+![internaluse-green](images/3847436881-internal_use_stable.png)
+![issues-open](images/2944199103-issues_open.png)
 
 # Workflow #
 
@@ -10,8 +10,8 @@ Up to now, this repository will be public. At some level of analysis and data co
 
 * Quick summary
     * Strategies, policies, insights and _good practices_ on the mix of digital maps, cartography and data mining
-* Version 1.02
-* ![gephy.gif](https://i.ibb.co/DQFwCrY/Recording-13.gif)
+ <br> </br>
+	![gephy.gif](images/Recording-13.gif)
 
 ### How do I get set up? ###
 
