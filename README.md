@@ -1,6 +1,11 @@
+<p align="center">
+  <img src="images/gdrq20aIS1-iTiFa8K-BhQ.webp?raw=true" alt="Logotipo de macros"/>
+</p>
+
+---
+
 ![status-archived](images/3278295154-status_archived.png)
 ![internaluse-green](images/3847436881-internal_use_stable.png)
-![issues-open](images/2944199103-issues_open.png)
 
 # Workflow #
 
